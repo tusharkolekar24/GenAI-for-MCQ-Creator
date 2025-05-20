@@ -6,5 +6,5 @@ When the user's Input was incorrect.
 When the user's Input was correct.
 ![image](https://github.com/user-attachments/assets/5e30362d-94c5-4739-9d8c-259e08aee640)
 
-Kindly download the ZIP file which contains sample input JSON files.
-This will help you quickly test and run the MCQ Creator App without needing to generate your own data.
+Kindly download the ZIP file, which contains sample input JSON files.
+This will help you quickly test and run the MCQ Creator App without generating your own data.
