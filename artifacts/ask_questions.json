@@ -1,0 +1,1060 @@
+{
+    "que": [
+        {
+            "question": "In what country is Normandy located?",
+            "id": "56ddde6b9a695914005b9628",
+            "answers": [
+                {
+                    "text": "France",
+                    "answer_start": 159
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "When were the Normans in Normandy?",
+            "id": "56ddde6b9a695914005b9629",
+            "answers": [
+                {
+                    "text": "10th and 11th centuries",
+                    "answer_start": 94
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "From which countries did the Norse originate?",
+            "id": "56ddde6b9a695914005b962a",
+            "answers": [
+                {
+                    "text": "Denmark, Iceland and Norway",
+                    "answer_start": 256
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Who was the Norse leader?",
+            "id": "56ddde6b9a695914005b962b",
+            "answers": [
+                {
+                    "text": "Rollo",
+                    "answer_start": 308
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "What century did the Normans first gain their separate identity?",
+            "id": "56ddde6b9a695914005b962c",
+            "answers": [
+                {
+                    "text": "10th century",
+                    "answer_start": 671
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Who was the duke in the battle of Hastings?",
+            "id": "56dddf4066d3e219004dad5f",
+            "answers": [
+                {
+                    "text": "William the Conqueror",
+                    "answer_start": 1022
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Who ruled the duchy of Normandy",
+            "id": "56dddf4066d3e219004dad60",
+            "answers": [
+                {
+                    "text": "Richard I",
+                    "answer_start": 573
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "What religion were the Normans",
+            "id": "56dddf4066d3e219004dad61",
+            "answers": [
+                {
+                    "text": "Catholic",
+                    "answer_start": 230
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "What is the original meaning of the word Norman?",
+            "id": "56dde0379a695914005b9636",
+            "answers": [
+                {
+                    "text": "Viking",
+                    "answer_start": 341
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "When was the Latin version of the word Norman first recorded?",
+            "id": "56dde0379a695914005b9637",
+            "answers": [
+                {
+                    "text": "9th century",
+                    "answer_start": 309
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "When was the Duchy of Normandy founded?",
+            "id": "56dde0ba66d3e219004dad75",
+            "answers": [
+                {
+                    "text": "911",
+                    "answer_start": 244
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Who did Rollo sign the treaty of Saint-Clair-sur-Epte with?",
+            "id": "56dde0ba66d3e219004dad76",
+            "answers": [
+                {
+                    "text": "King Charles III",
+                    "answer_start": 324
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "What river originally bounded the Duchy",
+            "id": "56dde0ba66d3e219004dad77",
+            "answers": [
+                {
+                    "text": "Seine",
+                    "answer_start": 711
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Who upon arriving gave the original viking settlers a common identity?",
+            "id": "56dde1d966d3e219004dad8d",
+            "answers": [
+                {
+                    "text": "Rollo",
+                    "answer_start": 7
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "What was the Norman religion?",
+            "id": "56dde27d9a695914005b9651",
+            "answers": [
+                {
+                    "text": "Catholicism",
+                    "answer_start": 121
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "What part of France were the Normans located?",
+            "id": "56dde27d9a695914005b9652",
+            "answers": [
+                {
+                    "text": "north",
+                    "answer_start": 327
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "What was one of the Norman's major exports?",
+            "id": "56dde2fa66d3e219004dad9b",
+            "answers": [
+                {
+                    "text": "fighting horsemen",
+                    "answer_start": 428
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Who was the Normans' main enemy in Italy, the Byzantine Empire and Armenia?",
+            "id": "56de0f6a4396321400ee257f",
+            "answers": [
+                {
+                    "text": "Seljuk Turks",
+                    "answer_start": 161
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "When did Herve serve as a Byzantine general?",
+            "id": "56de0ffd4396321400ee258d",
+            "answers": [
+                {
+                    "text": "1050s",
+                    "answer_start": 85
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "When did Robert Crispin go up against the Turks?",
+            "id": "56de0ffd4396321400ee258e",
+            "answers": [
+                {
+                    "text": "1060s",
+                    "answer_start": 292
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Who ruined Roussel de Bailleul's plans for an independent state?",
+            "id": "56de0ffd4396321400ee258f",
+            "answers": [
+                {
+                    "text": "Alexius Komnenos",
+                    "answer_start": 522
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "What was the name of the Norman castle?",
+            "id": "56de10b44396321400ee2593",
+            "answers": [
+                {
+                    "text": "Afranji",
+                    "answer_start": 539
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Who was the leader when the Franks entered the Euphrates valley?",
+            "id": "56de10b44396321400ee2594",
+            "answers": [
+                {
+                    "text": "Oursel",
+                    "answer_start": 256
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Who did the Normans team up with in Anatolia?",
+            "id": "56de10b44396321400ee2595",
+            "answers": [
+                {
+                    "text": "Turkish forces",
+                    "answer_start": 20
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "What were the origins of the Raouliii family?",
+            "id": "56de11154396321400ee25aa",
+            "answers": [
+                {
+                    "text": "Norman mercenary",
+                    "answer_start": 45
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "What was the name of the count of Apulia ",
+            "id": "56de148dcffd8e1900b4b5bc",
+            "answers": [
+                {
+                    "text": "Robert Guiscard",
+                    "answer_start": 0
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "When did Dyrrachium  fall to the Normans?",
+            "id": "56de148dcffd8e1900b4b5bd",
+            "answers": [
+                {
+                    "text": "1082",
+                    "answer_start": 1315
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "How many men were in Robert's army?",
+            "id": "56de148dcffd8e1900b4b5be",
+            "answers": [
+                {
+                    "text": "30,000",
+                    "answer_start": 492
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Where did the Normans and Byzantines sign the peace treaty?",
+            "id": "56de15104396321400ee25b7",
+            "answers": [
+                {
+                    "text": "Deabolis",
+                    "answer_start": 302
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Who was Robert's son?",
+            "id": "56de15104396321400ee25b8",
+            "answers": [
+                {
+                    "text": "Bohemond",
+                    "answer_start": 79
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "What river was Petrela located by?",
+            "id": "56de15104396321400ee25b9",
+            "answers": [
+                {
+                    "text": "Deabolis",
+                    "answer_start": 302
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "When did the Normans attack Dyrrachium?",
+            "id": "56de1563cffd8e1900b4b5c2",
+            "answers": [
+                {
+                    "text": "1185",
+                    "answer_start": 86
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "What was the naval base called?",
+            "id": "56de1563cffd8e1900b4b5c3",
+            "answers": [
+                {
+                    "text": "Dyrrachium",
+                    "answer_start": 125
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Where was Dyrrachium located?",
+            "id": "56de1563cffd8e1900b4b5c4",
+            "answers": [
+                {
+                    "text": "the Adriatic",
+                    "answer_start": 257
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Who did Emma Marry?",
+            "id": "56de15dbcffd8e1900b4b5c8",
+            "answers": [
+                {
+                    "text": "King Ethelred II",
+                    "answer_start": 360
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Who was Emma's brother?",
+            "id": "56de15dbcffd8e1900b4b5c9",
+            "answers": [
+                {
+                    "text": "Duke Richard II",
+                    "answer_start": 327
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "To where did Ethelred flee?",
+            "id": "56de15dbcffd8e1900b4b5ca",
+            "answers": [
+                {
+                    "text": "Normandy",
+                    "answer_start": 423
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Who kicked Ethelred out?",
+            "id": "56de15dbcffd8e1900b4b5cb",
+            "answers": [
+                {
+                    "text": "Sweyn Forkbeard",
+                    "answer_start": 480
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Who was Edward the Confessor's half-brother?",
+            "id": "56de1645cffd8e1900b4b5d0",
+            "answers": [
+                {
+                    "text": "Harthacnut",
+                    "answer_start": 115
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "When did Edward return?",
+            "id": "56de1645cffd8e1900b4b5d1",
+            "answers": [
+                {
+                    "text": "1041",
+                    "answer_start": 71
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Who did Edward make archbishop of Canterbury?",
+            "id": "56de1645cffd8e1900b4b5d2",
+            "answers": [
+                {
+                    "text": "Robert of Jumi\u00e8ges",
+                    "answer_start": 382
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Where did Harold II die?",
+            "id": "56de16ca4396321400ee25c5",
+            "answers": [
+                {
+                    "text": "Battle of Hastings",
+                    "answer_start": 85
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Who killed Harold II? ",
+            "id": "56de16ca4396321400ee25c6",
+            "answers": [
+                {
+                    "text": "William II",
+                    "answer_start": 14
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "When was the Battle of Hastings?",
+            "id": "56de16ca4396321400ee25c7",
+            "answers": [
+                {
+                    "text": "1066",
+                    "answer_start": 3
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Who was the ruling class ahead of the Normans?",
+            "id": "56de16ca4396321400ee25c8",
+            "answers": [
+                {
+                    "text": "Anglo-Saxons",
+                    "answer_start": 161
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "What was the Anglo-Norman language's final form?",
+            "id": "56de1728cffd8e1900b4b5d7",
+            "answers": [
+                {
+                    "text": "Modern English",
+                    "answer_start": 629
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "In what year did the Norman's invade at Bannow Bay?",
+            "id": "56de179dcffd8e1900b4b5da",
+            "answers": [
+                {
+                    "text": "1169",
+                    "answer_start": 101
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "What country did the Normans invade in 1169?",
+            "id": "56de179dcffd8e1900b4b5db",
+            "answers": [
+                {
+                    "text": "Ireland",
+                    "answer_start": 379
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "What culture did the Normans combine with in Ireland?",
+            "id": "56de179dcffd8e1900b4b5dc",
+            "answers": [
+                {
+                    "text": "Irish",
+                    "answer_start": 37
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Who was Margaret's brother?",
+            "id": "56de17f9cffd8e1900b4b5e0",
+            "answers": [
+                {
+                    "text": "Edgar",
+                    "answer_start": 75
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Who was Margaret's husband?",
+            "id": "56de17f9cffd8e1900b4b5e1",
+            "answers": [
+                {
+                    "text": "King Malcolm III of Scotland",
+                    "answer_start": 120
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "When was Scotland invaded by William?",
+            "id": "56de17f9cffd8e1900b4b5e2",
+            "answers": [
+                {
+                    "text": "1072",
+                    "answer_start": 300
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Who was the hostage?",
+            "id": "56de17f9cffd8e1900b4b5e3",
+            "answers": [
+                {
+                    "text": "Duncan",
+                    "answer_start": 440
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Who did Alexander I marry?",
+            "id": "56de3cd0cffd8e1900b4b6be",
+            "answers": [
+                {
+                    "text": "Sybilla of Normandy",
+                    "answer_start": 271
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "What culture's arrival in Scotland is know as the \"Davidian Revolution\"?",
+            "id": "56de3cd0cffd8e1900b4b6bf",
+            "answers": [
+                {
+                    "text": "Norman",
+                    "answer_start": 336
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Where was Ralph earl of?",
+            "id": "56de3d594396321400ee26ca",
+            "answers": [
+                {
+                    "text": "Hereford",
+                    "answer_start": 158
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Who was Ralph in charge of being at war with?",
+            "id": "56de3d594396321400ee26cb",
+            "answers": [
+                {
+                    "text": "the Welsh",
+                    "answer_start": 227
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Who made Ralph earl?",
+            "id": "56de3d594396321400ee26cc",
+            "answers": [
+                {
+                    "text": "Edward the Confessor",
+                    "answer_start": 90
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "What country was under the control of Norman barons?",
+            "id": "56de3dbacffd8e1900b4b6d2",
+            "answers": [
+                {
+                    "text": "Wales",
+                    "answer_start": 299
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "What year did Roger de Tosny fail to accomplish what he set out to do?",
+            "id": "56de3e414396321400ee26d8",
+            "answers": [
+                {
+                    "text": "1018",
+                    "answer_start": 221
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Who was in charge of the papal army in the War of Barbastro?",
+            "id": "56de3e414396321400ee26d9",
+            "answers": [
+                {
+                    "text": "William of Montreuil",
+                    "answer_start": 380
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "When did the Siege of Antioch take place?",
+            "id": "56de3ebc4396321400ee26e6",
+            "answers": [
+                {
+                    "text": "1097",
+                    "answer_start": 267
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "What was the name of Bohemond's nephew?",
+            "id": "56de3ebc4396321400ee26e7",
+            "answers": [
+                {
+                    "text": "Tancred",
+                    "answer_start": 100
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "What major conquest did Tancred play a roll in?",
+            "id": "56de3ebc4396321400ee26e8",
+            "answers": [
+                {
+                    "text": "Jerusalem",
+                    "answer_start": 390
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "How long did Western Europe control Cyprus?",
+            "id": "56de3efccffd8e1900b4b6fe",
+            "answers": [
+                {
+                    "text": "380 years",
+                    "answer_start": 189
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "What ruined Richard's plans to reach Acre?",
+            "id": "56de3f784396321400ee26fa",
+            "answers": [
+                {
+                    "text": "a storm",
+                    "answer_start": 99
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Who was Richard's fiancee?",
+            "id": "56de3f784396321400ee26fb",
+            "answers": [
+                {
+                    "text": "Berengaria",
+                    "answer_start": 218
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "What year did the storm hit Richard's fleet?",
+            "id": "56de3f784396321400ee26fc",
+            "answers": [
+                {
+                    "text": "1191",
+                    "answer_start": 9
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Who ruled Cyprus in 1191?",
+            "id": "56de3f784396321400ee26fd",
+            "answers": [
+                {
+                    "text": "Isaac Komnenos",
+                    "answer_start": 421
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Who was Guy's Rival?",
+            "id": "56de40da4396321400ee2708",
+            "answers": [
+                {
+                    "text": "Conrad of Montferrat",
+                    "answer_start": 188
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "What were Isaac's chains made out of?",
+            "id": "56de40da4396321400ee2709",
+            "answers": [
+                {
+                    "text": "silver",
+                    "answer_start": 565
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Who led Richard's troops when Cyprus was conquered?",
+            "id": "56de40da4396321400ee270a",
+            "answers": [
+                {
+                    "text": "Guy de Lusignan",
+                    "answer_start": 85
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "What continent are the Canarian Islands off the coast of?",
+            "id": "56de49564396321400ee277a",
+            "answers": [
+                {
+                    "text": "Africa",
+                    "answer_start": 219
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Who became the King of the Canary Islands?",
+            "id": "56de49a8cffd8e1900b4b7a7",
+            "answers": [
+                {
+                    "text": "Bethencourt",
+                    "answer_start": 0
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Who bought the rights?",
+            "id": "56de49a8cffd8e1900b4b7a8",
+            "answers": [
+                {
+                    "text": "Enrique P\u00e9rez de Guzm\u00e1n",
+                    "answer_start": 172
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Who sold the rights?",
+            "id": "56de49a8cffd8e1900b4b7a9",
+            "answers": [
+                {
+                    "text": "Maciot de Bethencourt",
+                    "answer_start": 116
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Where are Jersey and Guernsey",
+            "id": "56de4a474396321400ee2786",
+            "answers": [
+                {
+                    "text": "Channel Islands",
+                    "answer_start": 155
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "How many customaries does Norman customary law have?",
+            "id": "56de4a474396321400ee2787",
+            "answers": [
+                {
+                    "text": "two",
+                    "answer_start": 212
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "What is the Norman architecture idiom?",
+            "id": "56de4a89cffd8e1900b4b7bd",
+            "answers": [
+                {
+                    "text": "Romanesque",
+                    "answer_start": 135
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "What kind of arches does Norman architecture have?",
+            "id": "56de4a89cffd8e1900b4b7be",
+            "answers": [
+                {
+                    "text": "rounded",
+                    "answer_start": 332
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "What architecture type came after Norman in England?",
+            "id": "56de4b074396321400ee2793",
+            "answers": [
+                {
+                    "text": "Early Gothic",
+                    "answer_start": 108
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "What architecture type came before Norman in England?",
+            "id": "56de4b074396321400ee2794",
+            "answers": [
+                {
+                    "text": "Anglo-Saxon",
+                    "answer_start": 79
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "What place had the Norman Arab architectural style?",
+            "id": "56de4b074396321400ee2795",
+            "answers": [
+                {
+                    "text": "Sicily",
+                    "answer_start": 328
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "When did the church reform begin?",
+            "id": "56de4b5c4396321400ee2799",
+            "answers": [
+                {
+                    "text": "early 11th century",
+                    "answer_start": 129
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Who used the church to unify themselves?",
+            "id": "56de4b5c4396321400ee279a",
+            "answers": [
+                {
+                    "text": "dukes",
+                    "answer_start": 152
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "When were the French wars of religion?",
+            "id": "56de4bb84396321400ee27a2",
+            "answers": [
+                {
+                    "text": "16th century",
+                    "answer_start": 35
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "What kind of needlework was used in the creation of the Bayeux Tapestry?",
+            "id": "56de4c324396321400ee27ab",
+            "answers": [
+                {
+                    "text": "embroidery",
+                    "answer_start": 104
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "What is Norman art's most well known piece?",
+            "id": "56de4c324396321400ee27ac",
+            "answers": [
+                {
+                    "text": "Bayeux Tapestry",
+                    "answer_start": 49
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Who commissioned the Tapestry?",
+            "id": "56de4c324396321400ee27ad",
+            "answers": [
+                {
+                    "text": "Odo",
+                    "answer_start": 139
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "What is the most important type of Norman art preserved in churches?",
+            "id": "56de51244396321400ee27ef",
+            "answers": [
+                {
+                    "text": "mosaics",
+                    "answer_start": 466
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "In what century did important classical music developments occur in Normandy?",
+            "id": "56de51c64396321400ee27f7",
+            "answers": [
+                {
+                    "text": "11th",
+                    "answer_start": 97
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Who were the two abbots at F\u00e9camp Abbey?",
+            "id": "56de51c64396321400ee27f8",
+            "answers": [
+                {
+                    "text": "William of Volpiano and John of Ravenna",
+                    "answer_start": 234
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Where did the monks flee to?",
+            "id": "56de52614396321400ee27fb",
+            "answers": [
+                {
+                    "text": "southern Italy",
+                    "answer_start": 179
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "What monastery did the Saint-Evroul monks establish in Italy?",
+            "id": "56de52614396321400ee27fc",
+            "answers": [
+                {
+                    "text": "Latin monastery at Sant'Eufemia.",
+                    "answer_start": 259
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Who patronized the monks in Italy? ",
+            "id": "56de52614396321400ee27fd",
+            "answers": [
+                {
+                    "text": "Robert Guiscard",
+                    "answer_start": 225
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "What tradition were the Saint-Evroul monks known for?",
+            "id": "56de52614396321400ee27fe",
+            "answers": [
+                {
+                    "text": "singing",
+                    "answer_start": 32
+                }
+            ],
+            "is_impossible": false
+        }
+    ]
+}
