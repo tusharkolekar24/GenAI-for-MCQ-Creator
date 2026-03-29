@@ -6,6 +6,16 @@ GenAI-for-MCQ-Creator is an AI-powered application designed to automatically gen
 
 This project aims to assist teachers, content creators, and students by reducing manual effort in question creation while ensuring accuracy and relevance.
 
+When the user's Input was incorrect.
+![image](https://github.com/user-attachments/assets/38d60779-8d10-4958-83a0-14f0d030c69b)
+
+When the user's Input was correct.
+![image](https://github.com/user-attachments/assets/5e30362d-94c5-4739-9d8c-259e08aee640)
+
+Kindly download the ZIP file, which contains sample input JSON files.
+This will help you quickly test and run the MCQ Creator App without generating your own data.
+
+
 ---
 
 ## 🚀 Key Features
@@ -127,12 +137,3 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for m
 ## ⭐ Support
 
 If you find this project helpful, please ⭐ the repository to support its growth!
-
-When the user's Input was incorrect.
-![image](https://github.com/user-attachments/assets/38d60779-8d10-4958-83a0-14f0d030c69b)
-
-When the user's Input was correct.
-![image](https://github.com/user-attachments/assets/5e30362d-94c5-4739-9d8c-259e08aee640)
-
-Kindly download the ZIP file, which contains sample input JSON files.
-This will help you quickly test and run the MCQ Creator App without generating your own data.
